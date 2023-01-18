@@ -25,6 +25,9 @@ Objetivos Especifícos
 
 Tema 11: Introduccion a la corriente y voltajes alternos.
 
+![Mapa Mental Ideas Corporativo rosa y Naranja](https://user-images.githubusercontent.com/116821649/213285217-21a22236-1e85-4cdd-873a-749f6a0b3af8.png)
+
+![_Mapa Mental Ideas Sencillo Blanco y Azul](https://user-images.githubusercontent.com/116821649/213285752-73f0e210-f3bb-4de8-a858-d95ada275003.png)
 
 Tema 12: Capacitores.
 
